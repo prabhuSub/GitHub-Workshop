@@ -5,16 +5,16 @@ Contains, all the materials to teach students on the git basics. Below are the t
 1. Git Basics
 
 2. Customizing Git
+* Git Configuration
+* Git Attributes 
 
-  Git Configuration
-  Git Attributes 
 3. Git Branching
+* Branches in a Nutshell
+* Basic Branching and Merging
+* Branch Management
+* Branching Workflows
+* Remote Branches
 
-  Branches in a Nutshell
-  Basic Branching and Merging
-  Branch Management
-  Branching Workflows
-  Remote Branches
 4. Distributed Git
 
   Distributed Workflows
