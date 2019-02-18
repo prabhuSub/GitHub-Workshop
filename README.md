@@ -1,5 +1,8 @@
 # GitHub-Workshop
 Materials for my Workshop presentation
+
+This is the workshop conducted by Me and Ziwei(https://github.com/ziweifan177) under the NEU Skunkworks workshop activities.
+
 Contains, all the materials to teach students on the git basics. Below are the topics covered.
 
 1. Git Basics
