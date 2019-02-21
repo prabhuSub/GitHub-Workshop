@@ -1,7 +1,7 @@
 # GitHub-Workshop
 Materials for my Workshop presentation
 
-This is the workshop that I and Ziwei(https://github.com/ziweifan177) gave on Febraury 16th 2019 to 100 Northeastern College of engineering students under the NEU Skunkworks workshop activities.
+This is the workshop that I and <a href="https://github.com/ziweifan177">Ziwei</a> gave on Febraury 16th 2019 to 100 Northeastern College of engineering students under the NEU Skunkworks workshop activities(<a href="https://github.com/neuskunkworksrepo">Repository of Skunkworks</a>).
 
 Contains, all the materials to teach students on the git basics. Below are the topics covered.
 
